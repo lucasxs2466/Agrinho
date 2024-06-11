@@ -32,6 +32,7 @@
         
     }
     .BotãoInicial{
+        align-items: center;
         text-align: center;
         font-size: x-large;
         font-family: Arial, Helvetica, sans-serif;
