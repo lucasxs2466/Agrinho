@@ -1,47 +1,4 @@
-@media screen and (max-widht: 914px){ 
-    body{
-        background: linear-gradient(to right, #6AECFA,#3992FA);
-        height: 75px;
-    }
-    h1{
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: xx-large;
-        color: azure;
-    }
-    h4{
-        font-size: x-large;
-        font-family: Arial, Helvetica, sans-serif;
-        color: black;
-    
-    }
-    .Cabeçalho{
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        height: 75px;
-        width: 914px;
-    }
-    .menu{
-        margin: 30px;
-        list-style: none;
-        display: flex;
-        gap: 0.5rem;
-        font-size: large;
-        cursor: pointer;
-        font-family: Arial, Helvetica, sans-serif;
-        text-decoration: none;
-        
-    }
-    .BotãoInicial{
-        text-align: left;
-        font-size: large;
-        font-family: Arial, Helvetica, sans-serif;
-        color: white;
-        text-decoration: none;
-        margin-left: 15px;
-    }
-}
-@media screen and (max-widht: 1728px){ 
+
     body{
         background: linear-gradient(to right, #6AECFA,#3992FA);
         height: 400px;
