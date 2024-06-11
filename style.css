@@ -41,6 +41,6 @@
         text-decoration: none;
         margin-left: 20px;
         display: none;
-        
+        display: flex;        
     }
 }
