@@ -1,4 +1,4 @@
-@media screen and (min-widht: 914px){ 
+@media screen and (max-widht: 914px){ 
     body{
         background: linear-gradient(to right, #6AECFA,#3992FA);
         height: 75px;
@@ -41,7 +41,7 @@
         margin-left: 15px;
     }
 }
-@media screen and (min-widht: 1728px){ 
+@media screen and (max-widht: 1728px){ 
     body{
         background: linear-gradient(to right, #6AECFA,#3992FA);
         height: 400px;
