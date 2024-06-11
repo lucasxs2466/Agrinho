@@ -1,4 +1,4 @@
-@media (max-width: 914px)
+@media screen (max-width: 914px)
 {
     body{
         background: linear-gradient(to right, #6AECFA,#3992FA);
