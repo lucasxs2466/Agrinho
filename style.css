@@ -29,4 +29,11 @@
         margin-left: 20px;
         display: flex;      
     }
+    .apresentação{
+        display: flex;
+        text-align: center;
+        font-size: medium;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
 }
